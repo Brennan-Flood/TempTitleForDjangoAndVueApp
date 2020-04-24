@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>test</h1>
+  <router-link to="/test"> Test component </router-link>
   </div>
 </template>
 
