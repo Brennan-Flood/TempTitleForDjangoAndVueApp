@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
     <h1>This is a test of a component</h1>
+    <router-link to="/"> Go Back </router-link>
+
   </div>
 </template>
 
